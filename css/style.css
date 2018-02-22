@@ -1486,4 +1486,12 @@ input[type="text"] {
   color: rgb(0, 51, 0);
 }
 
+.block {
+  color: #000;
+}
+
+.block a {
+  color: blue;
+}
+
 /*# sourceMappingURL=style.css.map */

@@ -1,7 +1,7 @@
 var userids = $("input#name1").val();
 var text = "";
 var userid = function(userids){
-    if ((userids !== "madelein") && (userids !== "carlton") && (userids !== "peter")) {
+    if ((userids !== "cherop") && (userids !== "carlton") && (userids !== "peter")) {
       return text = "Oohps!! Wrong user ID.";
     }
     else {

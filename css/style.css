@@ -113,12 +113,12 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 .fh5co-nav #fh5co-logo {
-  font-size: 24px;
+  font-size: 2.2em;
   margin: 0;
   padding: 0;
   text-transform: uppercase;
   font-weight: 600;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: 'Aclonica', sans-serif;
 }
 .fh5co-nav #fh5co-logo a span {
   color: #66D37E;
@@ -132,6 +132,7 @@ h1, h2, h3, h4, h5, h6, figure {
     display: none;
   }
 }
+
 .fh5co-nav ul {
   padding: 0;
   margin: 5px 0 0 0;
@@ -271,6 +272,10 @@ h1, h2, h3, h4, h5, h6, figure {
   opacity: 1;
   -webkit-transform: translate3d(0, 0, 0);
   transform: translate3d(0, 0, 0);
+}
+
+#fh5co-logo{
+  rgb(0, 230, 0);
 }
 
 #fh5co-counter,
@@ -1471,6 +1476,14 @@ input[type="text"] {
   list-style: none;
   color: rgba(0, 0, 0, 0.3);
   font-weight: 400;
+}
+
+#fh5co-logo{
+  color: #66D37E;
+}
+
+.clarical {
+  color: rgb(0, 51, 0);
 }
 
 /*# sourceMappingURL=style.css.map */
